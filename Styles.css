@@ -1,0 +1,67 @@
+html {
+    width : 100%;
+    height : 85%;
+}
+body {
+    width : 100%;
+    height : 85%;
+    background-color: rgb(41, 41, 41);
+}
+#main {
+    width : 100%;
+    height: 80%;
+    margin: 50px auto;
+}
+#text {
+    float: right;
+    width : 49%;
+    height: 100%;
+}
+#inputs {
+    float: right;
+    width : 50%;
+    height: 100%;
+}
+input {
+    display: block;
+    width: 50%;
+    height : 3%;
+    padding: 10px;
+    margin: 15px 0 15px 0;
+    margin-right: 46%;
+}
+textarea {
+    width : 53%;
+    margin-right: 46%;
+}
+button {
+    margin-top: 15px;
+    margin-right: 46%;
+    width : 100px;
+    height: 50px;
+    font-size: 30px;
+    background-color: darkgoldenrod;
+}
+#text a{
+    text-decoration: none;
+    color:darkgray;
+    display: block;
+    padding-top: 7px;
+    margin-top: 7px;
+    margin-right: 7px;
+}
+#footer{
+    width: 100%;
+    border-top: 1px solid #ffffff;
+    font-weight: bold;
+    text-align: center;
+    height: 15%;
+    background-color: #ffffff;
+    text-decoration: none;
+}  
+#footerc{
+    text-align: center;
+    font-size: bold;
+    text-align: center;
+    color: #ffffff;
+} 
